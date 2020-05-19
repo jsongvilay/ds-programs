@@ -3,7 +3,7 @@
  *  Implement a FIFO Priority Queue to insert generic Wrapper items in a min heap
  *  and compare their priorities using the Comparable Interface
  *  March 27th, 2020
- *  @author  Jason Songvilay cssc1277
+ *  @author  Jason Songvilay 
  */
 
 package data_structures;

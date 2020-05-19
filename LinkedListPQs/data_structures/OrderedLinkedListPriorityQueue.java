@@ -3,7 +3,7 @@
  *  Implement a FIFO Priority Queue using linked lists and insert generic items in priority order
  *  and compare priorities using the Comparable Interface
  *  March 9th, 2020
- *  @author  Jason Songvilay cssc1277
+ *  @author  Jason Songvilay 
  */
 
 package data_structures;

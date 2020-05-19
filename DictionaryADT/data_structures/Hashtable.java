@@ -3,7 +3,7 @@
        *  Create a Dictionary structure using a hashtable with chaining implementation
        *  CS310-01
        *  April 22nd, 2020
-       *  @author  Jason Songvilay cssc1277
+       *  @author  Jason Songvilay 
        */
 package data_structures;
 
